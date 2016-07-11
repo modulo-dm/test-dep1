@@ -1,5 +1,5 @@
 {
-  "modulesPath" : "modules",
+  "module" : true,
   "dependencies" : [
     {
       "repositoryURL" : "git@github.com:modulo-dm\/test-dep2.git",
